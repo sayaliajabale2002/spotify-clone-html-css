@@ -1,1 +1,5 @@
 # spotify-clone-html-css
+This project is a responsive front-end clone of the Spotify Web Player user interface built entirely from scratch using HTML5 and CSS3. It replicates the core layout of the desktop application, featuring a sidebar with navigation and playlist prompts, a main dashboard displaying categorized music cards like "Recently Played" and "Trending now Near you," and a persistent bottom media playback bar complete with track details and control icons. The design utilizes modern CSS layout techniques like Flexbox and Grid alongside custom scrollbars and hover transitions to capture Spotify's signature dark-themed aesthetic without relying on external JavaScript functionality.
+
+<img width="960" height="540" alt="Screenshot 2026-07-13 130217" src="https://github.com/user-attachments/assets/918d16d7-b734-422c-8e1a-c7aa0bb8b800" />
+<img width="960" height="540" alt="Screenshot 2026-07-13 130236" src="https://github.com/user-attachments/assets/48d95677-8b1f-4b90-b1df-392bad8c3331" />
